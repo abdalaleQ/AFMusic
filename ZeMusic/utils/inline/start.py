@@ -8,7 +8,7 @@ def start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="اضف البوت الى مجموعتك",
+                text="ᗩᗪᗪ ᗰE TO YOᑌᖇ GᖇOᑌᑭ",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
@@ -29,7 +29,7 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="اضف البوت الى مجموعتك",
+                text="ᗩᗪᗪ ᗰE TO YOᑌᖇ GᖇOᑌᑭ",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
