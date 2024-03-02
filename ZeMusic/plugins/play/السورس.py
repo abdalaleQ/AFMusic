@@ -18,7 +18,7 @@ from random import  choice, randint
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
+        photo=f"https://graph.org/file/caeef4bf2ba9bf4f723cd.jpg",
         caption=f"""╭──── • ◈ • ────╮
 么 [َ  قناة السورس (t.me/VVV5P)
 么 [َ جروب الزعيم](t.me/EEEW2)
@@ -32,7 +32,7 @@ async def huhh(client: Client, message: Message):
                         "‹  مطور السورس  . 🕷 › ", url=f"https://t.me/T_5_G"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ سورس›", url=f"https://t.me/VVV5P"), 
+                        "‹ قناة السورس›", url=f"https://t.me/VVV5P"), 
                     InlineKeyboardButton(
                         "‹ جروب السورس›", url=f"https://t.me/EEEW2"),
                 ],[
