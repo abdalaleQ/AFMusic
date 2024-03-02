@@ -307,7 +307,7 @@ async def kaompj(client, message):
 )
 async def zohary(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
+        photo=f"https://graph.org/file/caeef4bf2ba9bf4f723cd.jpg",
         caption= GAME_MESSAGE,
         reply_markup=InlineKeyboardMarkup(GAME_BUTTONS)
     )  
@@ -315,7 +315,7 @@ async def zohary(client: Client, message: Message):
 async def callback_query(client, CallbackQuery):
           if CallbackQuery.data == "GAME1":
             
-             GAME1_MESSAGE = "ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠\n\nمرحبا بك في قسم العاب 3D\n\nᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠"
+             GAME1_MESSAGE = "ᯓ سورس ميوزك اازعيم 𓃠\n\nمرحبا بك في قسم العاب 3D\n\nᯓ المبرمج الزعيم 𓃠"
 
              GAME1_BUTTONS = [
                  [
