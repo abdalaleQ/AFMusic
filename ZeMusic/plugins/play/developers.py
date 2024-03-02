@@ -15,23 +15,23 @@ from random import  choice, randint
 
 #          
                 
-@app.on_message(filters.command(["عفرتو","مطور السورس","مبرمج السورس","المطور"],"")
+@app.on_message(filters.command(["زعيم","مطور السورس","مبرمج السورس","المطور"],"")
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/96857cb597b588139fdd5.jpg",
-        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪](https://t.me/IIUll_l)❫
-◉ 𝚄𝚂𝙴𝚁 : ❪ @IIUll_l ❫
-◉ 𝙸𝙳      : ❪ `5904216848` ❫
-◉ 𝙱𝙸𝙾    : ❪ for me (@UI_VM)  ❫""",
+        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[سورس الزعيم](https://t.me/T_5_G)❫
+◉ 𝚄𝚂𝙴𝚁 : ❪ @VVV5P ❫
+◉ 𝙸𝙳      : ❪ `7118337980` ❫
+◉ 𝙱𝙸𝙾    : ❪ for me (@T_5_G)  ❫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪", url=f"https://t.me/IIUll_l"), 
+                        "سورس الزعيم", url=f"https://t.me/T_5_G"), 
                  ],[
                    InlineKeyboardButton(
-                        "「𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾」", url=f"https://t.me/UI_VM"),
+                        "「سورس الزعسم」", url=f"https://t.me/T_5_G"),
                 ],
 
             ]
@@ -48,13 +48,13 @@ async def kimmyy(client: Client, message: Message):
     usr = await client.get_users(OWNER)
     name = usr.first_name
     async for photo in client.iter_profile_photos(OWNER, limit=1):
-                    await message.reply_photo(photo.file_id,       caption=f"""**⩹━★⊷⌯𝐒𝐎𝐔𝐑𝐂𝐄 𝐕𝐄𝐆𝐀⌯⊶★━⩺**
+                    await message.reply_photo(photo.file_id,       caption=f"""**⩹━★⊷⌯سورس الزعيم⌯⊶★━⩺**
                     
 🔥 ¦𝚆𝙾𝙽𝙴𝚁 :[{usr.first_name}](https://t.me/{OWNER})
 📀 ¦𝚄𝚂𝙴𝚁 :@{OWNER} 
 🆔 ¦𝙸𝙳 :`{usr.id}`
  
-**⩹━★⊷⌯𝐒𝐎𝐔𝐑𝐂𝐄 𝐕𝐄𝐆𝐀⌯⊶★━⩺** """, 
+**⩹━★⊷⌯سورس الزعيم⌯⊶★━⩺** """, 
 reply_markup=InlineKeyboardMarkup(
           [               
             [            
