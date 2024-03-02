@@ -48,13 +48,13 @@ async def kimmyy(client: Client, message: Message):
     usr = await client.get_users(OWNER)
     name = usr.first_name
     async for photo in client.iter_profile_photos(OWNER, limit=1):
-                    await message.reply_photo(photo.file_id,       caption=f"""**⩹━★⊷⌯سورس الزعيم⌯⊶★━⩺**
+                    await message.reply_photo(photo.file_id,       caption=f"""**⩹━★⊷⌯ سورس ميوزك الزعيم⌯⊶★━⩺**
                     
 🔥 ¦𝚆𝙾𝙽𝙴𝚁 :[{usr.first_name}](https://t.me/{OWNER})
 📀 ¦𝚄𝚂𝙴𝚁 :@{OWNER} 
 🆔 ¦𝙸𝙳 :`{usr.id}`
  
-**⩹━★⊷⌯سورس الزعيم⌯⊶★━⩺** """, 
+**⩹━★⊷⌯ سورس ميوزك الزعيم⌯⊶★━⩺** """, 
 reply_markup=InlineKeyboardMarkup(
           [               
             [            
