@@ -8,7 +8,7 @@ def start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="ᗩᗪᗪ ᗰE TO YOᑌᖇ GᖇOᑌᑭ",
+                text="اضف البوت الى مجموعتك",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
