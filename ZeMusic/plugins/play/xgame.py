@@ -8,13 +8,13 @@ from ZeMusic import app
 import re
 import sys
 
-GAME_MESSAGE = "ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠\n\n★¦ مرحبا بك عزيزي:\n★¦في قسم العاب عفرتو\n\nᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠"
+GAME_MESSAGE = "ᯓ سورس الزعيم 𓃠\n\n★¦ مرحبا بك عزيزي:\n★¦في قسم العاب الزعيم\n\nᯓ سورس الزعيم 𓃠"
 GAME_BUTTONS = [
     [ 
         InlineKeyboardButton ('الالعــاب-3D', callback_data= 'GAME1'),
         InlineKeyboardButton ('الالعــاب', callback_data= 'GAME2'),
         ],[
-        InlineKeyboardButton ('ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠', url =f"https://t.me/UI_VM")              
+        InlineKeyboardButton ('ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠', url =f"https://t.me/T_5_G")              
                  ],[
                 InlineKeyboardButton(
                         "◁", callback_data="close"),
@@ -359,14 +359,14 @@ async def callback_query(client, CallbackQuery):
               )
           elif CallbackQuery.data == "GAME":
                
-               RETURN_GAME = "ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠\n\n★¦مرحبا بك في قسم العاب \n★¦اختار ما تشاء من الالعاب مسليه وستمتع بها\n\nᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠" 
+               RETURN_GAME = "ᯓ سورس الزعيم 𓃠\n\n★¦مرحبا بك في قسم العاب \n★¦اختار ما تشاء من الالعاب مسليه وستمتع بها\n\nᯓ سورس الزعيم 𓃠" 
 
                RETURN_BUTTON = [
                     [ 
                       InlineKeyboardButton ('★¦العاب 3D', callback_data= 'GAME1'),
                       InlineKeyboardButton ('★¦العاب', callback_data= 'GAME2')
                       ],[
-        InlineKeyboardButton ('ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠', url =f"https://t.me/UI_VM")              
+        InlineKeyboardButton ('ᯓ سورس الزعيم 𓃠', url =f"https://t.me/T_5_G")              
                  ],[
                 InlineKeyboardButton(
                         "◁", callback_data="close"),
@@ -379,11 +379,11 @@ async def callback_query(client, CallbackQuery):
                     )
           elif CallbackQuery.data == "GAME2":
                
-               SOURCE_GAME = "ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠\n\n★¦العاب \n★¦كت\n★¦تويت\n★¦اسال\n★¦اصراحه\n★¦ لو خيروك \n★¦كتابات \n★¦زوجني \n★¦التسليه \n★¦صور\n★¦انصحني\n★¦نداء\n★¦حروف\n★¦غنيلي\n\n⩹━⊷⌯⌞ 𖧊 𝐒𝐎𝐔𝐑𝐂𝐄 𝐀𝐋𝐏𝐎𝐏 𖧊 ⌝⌯⊶━⩺." 
+               SOURCE_GAME = "ᯓ سورس الزعيم 𓃠\n\n★¦العاب \n★¦كت\n★¦تويت\n★¦اسال\n★¦اصراحه\n★¦ لو خيروك \n★¦كتابات \n★¦زوجني \n★¦التسليه \n★¦صور\n★¦انصحني\n★¦نداء\n★¦حروف\n★¦غنيلي\n\n⩹━⊷⌯⌞ 𖧊 𝐒𝐎𝐔𝐑𝐂𝐄 𝐀𝐋𝐏𝐎𝐏 𖧊 ⌝⌯⊶━⩺." 
 
                SORGAM_BUTTON = [
                     [ 
-                      InlineKeyboardButton ('ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝚃𝙾𝙾 𓃠', url =f"https://t.me/UI_VM")
+                      InlineKeyboardButton ('ᯓ سورس الزعيم 𓃠', url =f"https://t.me/T_5_G")
                       ],[
                          InlineKeyboardButton ('◁', callback_data= 'GAME')
                     ]
