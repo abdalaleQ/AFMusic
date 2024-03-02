@@ -12,14 +12,14 @@ def start_panel(_):
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
-        [InlineKeyboardButton(text="父 الأوامر 父", callback_data="settings_back_helper")],
+        [InlineKeyboardButton(text="الأوامر", callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text="ᗪEᐯEᒪOᑭEᖇ", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="ᑕᕼᗩᑎᑎEᒪ", url=config.SUPPORT_CHANNEL),
         ],
         [
          
-            InlineKeyboardButton(text="ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪", url=f"https://t.me/VVYVVJ"),
+            InlineKeyboardButton(text="سورس ميوزك", url=f"https://t.me/T_5_G"),
         ],
     ]
     return buttons
@@ -33,14 +33,14 @@ def private_panel(_):
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
-        [InlineKeyboardButton(text="父 الأوامر 父", callback_data="settings_back_helper")],
+        [InlineKeyboardButton(text="الأوامر", callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text="ᗪEᐯEᒪOᑭEᖇ", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="ᑕᕼᗩᑎᑎEᒪ", url=config.SUPPORT_CHANNEL),
         ],
         [
          
-            InlineKeyboardButton(text="ْ𓆩⧛ َ 𝘼َِ𝙁َِ𝙍َِ𝙊َِ𝙊َِ𝙏َِ𝙊ِ ┇ عـ๋͜‏ـۂفــ͡ـࢪتوُ ⧚𓆪", url=f"https://t.me/VVYVVJ"),
+            InlineKeyboardButton(text="سورس ميوزك", url=f"https://t.me/VVV5P"),
         ],
     ]
     return buttons
