@@ -5,7 +5,7 @@ from ZeMusic import app
 
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(bot: Client, msg: Message):
-    if not "https://t.me/UI_VM":  # Not compulsory
+    if not "https://t.me/VVV5P":  # Not compulsory
         return
     try:
         try:
