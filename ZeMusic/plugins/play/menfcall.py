@@ -32,7 +32,7 @@ async def strcall(client, message):
     except NoActiveGroupCall:
         await message.reply(f"عمووووو الكول مش مفتوح اصلااا\n❌")
     except TelegramServerError:
-        await message.reply(f"ارسل الامر تاني في مشكله في سيرفر التلجرام\n❌")
+        await message.reply(f"ارسل الامر ثاني في مشكله في سيرفر التلجرام\n❌")
     except AlreadyJoinedError:
         text="🔔 الاعضاء المتواجدين في الكول :\n\n"
         participants = await assistant.get_participants(message.chat.id)
