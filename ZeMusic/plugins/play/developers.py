@@ -15,13 +15,13 @@ from random import  choice, randint
 
 #          
                 
-@app.on_message(filters.command(["المطور","مطور السورس","مبرمج السورس","الزعيم"],"")
+@app.on_message(filters.command(["المطور","المطور ","المطور ","الزعيم"],"")
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/96857cb597b588139fdd5.jpg",
-        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[سورس الزعيم](https://t.me/T_5_G)❫
-◉ 𝚄𝚂𝙴𝚁 : ❪ @VVV5P ❫
+        photo=f"https://graph.org/file/59258f178623e4109f62a.jpg",
+        caption=f"""◉ 𝙽𝙰𝙼𝙴 : ❪[سورس الزعيم](https://t.me/VVV5P)❫
+◉ 𝚄𝚂𝙴𝚁 : ❪ @T_5_G ❫
 ◉ 𝙸𝙳      : ❪ `7118337980` ❫
 ◉ 𝙱𝙸𝙾    : ❪ for me (@T_5_G)  ❫""",
         reply_markup=InlineKeyboardMarkup(
@@ -40,7 +40,7 @@ async def huhh(client: Client, message: Message):
 
     )
 @app.on_message(
-    command(["مطور", "المطور"])
+    command(["مبرمج", "المطور"])
     & filters.group
   
 )
