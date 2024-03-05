@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="ᯓ انهاء ‌", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="ᯓ تخطي ", callback_data=f"ADMIN Stop|{chat_id}"),
         ],[
-            InlineKeyboardButton(text="سورس ميوزك", url=f"https://t.me/T_5_G"),
+            InlineKeyboardButton(text="𝗠𝗜𝗨𝗭𝗜𝗞 𝗔𝗟𝗭𝗔𝗘𝗜𝗠", url=f"https://t.me/T_5_G"),
         ],[
             InlineKeyboardButton(text="𖣂 اضف البوت الي مجموعتك 𖣂", url=f"https://t.me/{app.username}?startgroup=true")],
     ]
@@ -85,9 +85,9 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="ᯓ انهاء ‌", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="ᯓ تخطي ", callback_data=f"ADMIN Stop|{chat_id}"),
         ],[
-            InlineKeyboardButton(text="سورس ميوزك", url=f"https://t.me/VVV5P"),
+            InlineKeyboardButton(text="𝗠𝗜𝗨𝗭𝗜𝗞 𝗔𝗟𝗭𝗔𝗘𝗜𝗠", url=f"https://t.me/VVV5P"),
         ],[
-            InlineKeyboardButton(text="𖣂 اضف البوت الي مجموعتك او قناتك 𖣂", url=f"https://t.me/{app.username}?startgroup=true")],
+            InlineKeyboardButton(text="𖣂 اضف البوت الي مجموعتك 𖣂", url=f"https://t.me/{app.username}?startgroup=true")],
     ]
     return buttons
 
