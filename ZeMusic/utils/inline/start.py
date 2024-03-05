@@ -19,7 +19,7 @@ def start_panel(_):
         ],
         [
          
-            InlineKeyboardButton(text="سورس الزعيم", url=f"https://t.me/T_5_G"),
+            InlineKeyboardButton(text="𝗠𝗜𝗨𝗭𝗜𝗞 𝗔𝗟𝗭𝗔𝗘𝗜𝗠", url=f"https://t.me/T_5_G"),
         ],
     ]
     return buttons
@@ -40,7 +40,7 @@ def private_panel(_):
         ],
         [
          
-            InlineKeyboardButton(text="سورس الزعيم", url=f"https://t.me/EEEW2"),
+            InlineKeyboardButton(text="𝗠𝗜𝗨𝗭𝗜𝗞 𝗔𝗟𝗭𝗔𝗘𝗜𝗠", url=f"https://t.me/EEEW2"),
         ],
     ]
     return buttons
