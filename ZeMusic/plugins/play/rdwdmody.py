@@ -9,9 +9,9 @@ from pyrogram import filters, Client
 
 
 txt = [
-"نورت"
+"لبيه امر "
         ]
-@app.on_message(filters.command(["هاي"], ""), group=73)
+@app.on_message(filters.command(["بوت"], ""), group=73)
 
 async def caesar(client: Client, message: Message):
 
