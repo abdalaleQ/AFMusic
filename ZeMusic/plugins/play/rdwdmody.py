@@ -39,7 +39,7 @@ htxt = [
 " خدوني معاكم برايفت  🥺💔"
         ]
 
-@app.on_message(filters.command(["ممم"], ""), group=273)
+@app.on_message(filters.command(["jkfvjj"], ""), group=273)
 
 async def caesar(client: Client, message: Message):
 
@@ -67,7 +67,7 @@ htx = [
 " مع الف سلامه يقلبي متجيش ثاني 😹💔🎶"
         ]
 
-@app.on_message(filters.command(["ممممم"], ""), group=253)
+@app.on_message(filters.command(["gjuvmvk"], ""), group=253)
 
 async def caesar(client: Client, message: Message):
 
@@ -95,7 +95,7 @@ hxt = [
 " نعم الله عليك 🌚❤️"
         ]
 
-@app.on_message(filters.command(["نعم"], ""), group=2073)
+@app.on_message(filters.command(["hhhhhh"], ""), group=2073)
 
 async def caesar(client: Client, message: Message):
 
@@ -109,7 +109,7 @@ hytxt = [
 " القمر ده شبهك 🙂❤️"
         ]
 
-@app.on_message(filters.command(["مممم"], ""), group=2173)
+@app.on_message(filters.command(["iiiiiii"], ""), group=2173)
 
 async def caesar(client: Client, message: Message):
 
@@ -137,7 +137,7 @@ ghtxt = [
 " ضحكتك عثل زيكك ينوحيي 🌝❤️"
         ]
 
-@app.on_message(filters.command(["😂"], ""), group=26773)
+@app.on_message(filters.command(["kjfkvfj"], ""), group=26773)
 
 async def caesar(client: Client, message: Message):
 
@@ -151,7 +151,7 @@ jhtxt = [
 " متزعلش بحبك 😻🤍"
         ]
 
-@app.on_message(filters.command(["🥺"], ""), group=26473)
+@app.on_message(filters.command(["ugfjjvvh"], ""), group=26473)
 
 async def caesar(client: Client, message: Message):
 
@@ -165,7 +165,7 @@ ahtxt = [
 " بتعيط تيب لي طيب 😥"
         ]
 
-@app.on_message(filters.command(["ممم"], ""), group=23573)
+@app.on_message(filters.command(["cvfjvjkv"], ""), group=23573)
 
 async def caesar(client: Client, message: Message):
 
@@ -179,7 +179,7 @@ shtxt = [
 " نا عايز مح انا كمان 🥺💔"
         ]
 
-@app.on_message(filters.command(["ممم"], ""), group=29773)
+@app.on_message(filters.command(["jkgfjkk"], ""), group=29773)
 
 async def caesar(client: Client, message: Message):
 
@@ -193,7 +193,7 @@ dhtxt = [
 " عدل وجهك ونت بتكلمني 😒🙄"
         ]
 
-@app.on_message(filters.command(["مممم"], ""), group=2873)
+@app.on_message(filters.command(["مhkv"], ""), group=2873)
 
 async def caesar(client: Client, message: Message):
 
@@ -206,7 +206,7 @@ mhtxt = [
 "محات حياتي يروحي 🌝❤️"
         ]
 
-@app.on_message(filters.command(["محح"], ""), group=2601473)
+@app.on_message(filters.command(["uyigiykgk"], ""), group=2601473)
 
 async def caesar(client: Client, message: Message):
 
@@ -220,7 +220,7 @@ lhtxt = [
 " وانا كمان بعشقك يا روحي 🤗🥰"
         ]
 
-@app.on_message(filters.command(["بحبك"], ""), group=231673)
+@app.on_message(filters.command(["xbfhchh"], ""), group=231673)
 
 async def caesar(client: Client, message: Message):
 
@@ -248,7 +248,7 @@ dfhtxt = [
 " بنهش كتاكيت احنا هنا ولا اي ??😹"
         ]
 
-@app.on_message(filters.command(["مممم"], ""), group=2756033)
+@app.on_message(filters.command(["sjgdhjjf"], ""), group=2756033)
 
 async def caesar(client: Client, message: Message):
 
@@ -262,7 +262,7 @@ nhtxt = [
 " هلا بيك ياروحي 👋"
         ]
 
-@app.on_message(filters.command(["مممم"], ""), group=207973)
+@app.on_message(filters.command(["ixixjckv"], ""), group=207973)
 
 async def caesar(client: Client, message: Message):
 
@@ -304,7 +304,7 @@ uhtxt = [
 " انت الخير يعمري 🌝❤️"
         ]
 
-@app.on_message(filters.command(["مممم"], ""), group=279373)
+@app.on_message(filters.command(["ترتزنورةترر"], ""), group=279373)
 
 async def caesar(client: Client, message: Message):
 
@@ -332,7 +332,7 @@ htxtk = [
 "خخخ امال 😹"
         ]
 
-@app.on_message(filters.command(["ممممم"], ""), group=225973)
+@app.on_message(filters.command(["خاناتتلتهرررتن"], ""), group=225973)
 
 async def caesar(client: Client, message: Message):
 
@@ -346,7 +346,7 @@ asdhtxt = [
 " لا عيب لاتجنن 😹💔"
         ]
 
-@app.on_message(filters.command(["مممم"], ""), group=200873)
+@app.on_message(filters.command(["هنتننتتووهتور"], ""), group=200873)
 
 async def caesar(client: Client, message: Message):
 
@@ -360,7 +360,7 @@ pokghtxt = [
 " نورك حبيبي 🌝💙"
         ]
 
-@app.on_message(filters.command(["ممممم"], ""), group=200173)
+@app.on_message(filters.command(["ييلووةثورةنرر"], ""), group=200173)
 
 async def caesar(client: Client, message: Message):
 
@@ -374,7 +374,7 @@ ijkhtxt = [
 " اي الثقافه هذه 😒😹"
         ]
 
-@app.on_message(filters.command(["مممممم"], ""), group=200273)
+@app.on_message(filters.command(["ذبيلليليسلذذرور"], ""), group=200273)
 
 async def caesar(client: Client, message: Message):
 
@@ -388,7 +388,7 @@ kghtxt = [
 "في امان الله"
         ]
 
-@app.on_message(filters.command(["باي"], ""), group=200373)
+@app.on_message(filters.command([""], ""), group=200373)
 
 async def caesar(client: Client, message: Message):
 
@@ -402,7 +402,7 @@ lphtxt = [
 " اهدا يوحش ميصحش كذا 😒??"
         ]
 
-@app.on_message(filters.command(["ممممممم"], ""), group=200473)
+@app.on_message(filters.command([""], ""), group=200473)
 
 async def caesar(client: Client, message: Message):
 
@@ -416,7 +416,7 @@ tthtxt = [
 " العفو ياروحي 🙈🌝"
         ]
 
-@app.on_message(filters.command(["مممممم"], ""), group=200573)
+@app.on_message(filters.command([""], ""), group=200573)
 
 async def caesar(client: Client, message: Message):
 
@@ -430,7 +430,7 @@ qqhtxt = [
 " انت الي حلو ياقمر 🤤🌝"
         ]
 
-@app.on_message(filters.command(["ممممممم"], ""), group=200673)
+@app.on_message(filters.command([" "], ""), group=200673)
 
 async def caesar(client: Client, message: Message):
 
@@ -444,7 +444,7 @@ wwhtxt = [
 " موت بعيد م ناقصين مصايب 😑😂"
         ]
 
-@app.on_message(filters.command(["بموت"], ""), group=200773)
+@app.on_message(filters.command([""], ""), group=200773)
 
 async def caesar(client: Client, message: Message):
 
@@ -458,7 +458,7 @@ zzhtxt = [
 "فرح خالتك قريب 😹💋💃🏻"
         ]
 
-@app.on_message(filters.command(["مممممم"], ""), group=200873)
+@app.on_message(filters.command([""], ""), group=200873)
 
 async def caesar(client: Client, message: Message):
 
@@ -472,7 +472,7 @@ vvhtxt = [
 " جتك اوهه م سامع ولا ايي 😹👻"
         ]
 
-@app.on_message(filters.command(["ممممممم"], ""), group=200973)
+@app.on_message(filters.command([""], ""), group=200973)
 
 async def caesar(client: Client, message: Message):
 
@@ -486,7 +486,7 @@ xxhtxt = [
 " حضرلك الخير يارب 🙂❤️"
         ]
 
-@app.on_message(filters.command(["حاضر"], ""), group=2000173)
+@app.on_message(filters.command([""], ""), group=2000173)
 
 async def caesar(client: Client, message: Message):
 
@@ -500,7 +500,7 @@ cchtxt = [
 " لف ورجع تانى مشحوار 😂🚶‍♂👻"
         ]
 
-@app.on_message(filters.command(["ممممممم"], ""), group=2000273)
+@app.on_message(filters.command([""], ""), group=2000273)
 
 async def caesar(client: Client, message: Message):
 
@@ -514,7 +514,7 @@ kjjhtxt = [
 "يوه خضتني ياسمك اي 🥺💔"
         ]
 
-@app.on_message(filters.command(["بخ"], ""), group=2000373)
+@app.on_message(filters.command([""], ""), group=2000373)
 
 async def caesar(client: Client, message: Message):
 
@@ -542,7 +542,7 @@ pphtxt = [
 " امك اسمها احلام 😹😹"
         ]
 
-@app.on_message(filters.command(["مممنالل"], ""), group=2000573)
+@app.on_message(filters.command([""], ""), group=2000573)
 
 async def caesar(client: Client, message: Message):
 
@@ -570,7 +570,7 @@ llhtxt = [
 " كفيه شقط سيب حاجه لغيرك 😎😂"
         ]
 
-@app.on_message(filters.command(["ااااااااا"], ""), group=20713)
+@app.on_message(filters.command(["ااااوننااااا"], ""), group=20713)
 
 async def caesar(client: Client, message: Message):
 
@@ -584,7 +584,7 @@ kkhtxt = [
 "كفيه شقط سيب حاجه لغيرك 😎😂"
         ]
 
-@app.on_message(filters.command(["وووو"], ""), group=22703)
+@app.on_message(filters.command([""], ""), group=22703)
 
 async def caesar(client: Client, message: Message):
 
