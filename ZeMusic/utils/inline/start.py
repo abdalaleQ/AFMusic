@@ -12,7 +12,7 @@ def start_panel(_):
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
-        [InlineKeyboardButton(text="الأوامر", callback_data="settings_back_helper")],
+        [InlineKeyboardButton(text="مغلق", callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text="مطور السورس", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="قناة السورس", url=config.SUPPORT_CHANNEL),
